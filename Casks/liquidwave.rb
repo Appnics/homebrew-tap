@@ -1,6 +1,6 @@
 cask "liquidwave" do
-  version "1.3.0"
-  sha256 "55ed622516cb192202e96eff38a6c44522625a0af90ebc53314c9b4b858b7935"
+  version "1.4.1"
+  sha256 "1edf943609339269793ab88808db1b809962eac9e32194fa0e628009f7db7a63"
 
   url "https://github.com/Appnics/liquidwave-releases/releases/download/v#{version}/LIQUIDWAVE-#{version}.dmg",
       verified: "github.com/Appnics/liquidwave-releases/"
