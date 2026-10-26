@@ -1,6 +1,6 @@
 cask "liquidwave" do
-  version "1.4.1"
-  sha256 "1edf943609339269793ab88808db1b809962eac9e32194fa0e628009f7db7a63"
+  version "1.5.0"
+  sha256 "ffa421a43281d7a2378830580c3c2e5d46f11ab07465b0505c4424e78f5cbc4f"
 
   url "https://liquidwave.app/downloads/LIQUIDWAVE-#{version}.dmg?src=homebrew"
   name "LIQUIDWAVE"
